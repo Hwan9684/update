@@ -9,7 +9,8 @@ import seaborn as sns
 from tqdm import tqdm
 
 # 데이터가 저장된 디렉토리
-base_dir = "C:/Users/KYH/Desktop/deeplearning/RF"
+#base_dir = "C:/Users/KYH/Desktop/deeplearning/RF"
+base_dir="/volumedata/kyh/RF"
 
 # 파일 경로 리스트
 file_paths = [
